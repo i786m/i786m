@@ -16,10 +16,10 @@
 
 <p align='center'><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=i786m" alt="i786m" /></p>
 
-<ul align='center'>
-<li> 🔭 I’m currently working on a todolist application with the view to expand this to a kanban board </li>
-  <li> 🌱 I’m currently learning react and next </li>
-  <li> 👯 I’m looking to collaborate on open source projects for social good </li>
-  <li> 😄 Pronouns: He/Him </li>
-<li> ⚡ Fun fact: 7 people hold the key to the internet!!(they have backups of course...thankfully) </li>
-</ul>
+<p align='center'>
+ 🔭 I’m currently working on a todolist application with the view to expand this to a kanban board <br/>
+   🌱 I’m currently learning react and next <br/>
+   👯 I’m looking to collaborate on open source projects for social good <br/>
+   😄 Pronouns: He/Him <br/>
+ ⚡ Fun fact: 7 people hold the key to the internet!!(they have backups of course...thankfully) <br/>
+</p>
