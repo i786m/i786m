@@ -7,7 +7,7 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/imran786mohamed" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@imran786mohamed" height="30" width="40" style="color:blue;"/></a>
-<a href="https://linkedin.com/in/imran-mohamed" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="imran-mohamed" height="30" width="40" style="color:blue;"/></a>
+<a href="https://linkedin.com/in/imran-mohamed" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="imran-mohamed" height="30" width="40" style="color:blue;"/></a> 
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
