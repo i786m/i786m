@@ -17,6 +17,7 @@
 <p align='center'>
  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=i786m&theme=dark&dates=E9C46A&sideLabels=2A9D8F&ring=E76F51&background=264653&currStreakLabel=E76F51&stroke=F4A261" alt="i786m github statistics" />
 </p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=i786m)](https://git.io/streak-stats)
 <p align='center'>
  🔭 I’m currently working on a todolist application with the view to expand this to a kanban board <br/>
    🌱 I’m currently learning react and next <br/>
