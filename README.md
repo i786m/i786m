@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Imran Mohamed</h1>
-<h3 align="center">An Aspiring Software Engineer enrolled on as a trainee with (CodeYourFuture)[https://codeyourfuture.io]</h3>
+<h3 align="center">An Aspiring Software Engineer enrolled on as a trainee with [CodeYourFuture](https://codeyourfuture.io)</h3>
 
 <p align="center"> 👨‍💻 All of my projects are available <a href='https://www.imranbmohamed.com'>here</a>
 
